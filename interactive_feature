@@ -1,0 +1,37 @@
+
+ 
+ 
+ ('DP02_0096E',
+  0.15685457342393891,
+  'YEAR OF ENTRY!!Population born outside the United States'),
+ ('DP02_0098E',
+  0.15141164961800954,
+  'YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later'),
+ ('DP02_0093E',
+  0.14701934637828426,
+  'U.S. CITIZENSHIP STATUS!!Foreign-born population'),
+ ('DP02_0092E',
+  0.14701934637828426,
+  'PLACE OF BIRTH!!Total population!!Foreign born'),
+ 
+ ('DP02_0052E',
+  0.13970408483425684,
+  'SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school'),
+ 
+ 
+ ('DP02_0118E',
+  0.12649267867569625,
+  'LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages'),
+ ('DP02_0062E',
+  0.12022168814899366,
+  'EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree'),
+ ('DP02_0090E',
+  0.11965176660941157,
+  'PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state'),
+ ('DP02_0061E',
+  0.11867073351010077,
+  'EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)'),
+ ('DP02_0057E',
+  0.11778667513001125,
+  'SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school'),
+ 
